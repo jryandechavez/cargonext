@@ -38,6 +38,13 @@ def get_data():
                         "icon": "icon-qrcode",
                         "type": "module",
                         "label": _("Warehousing")
+                },
+                {
+                        "module_name": "General Setup",
+                        "color": "brown",
+                        "icon": "icon-wrench",
+                        "type": "module",
+                        "label": _("General Setup")
                 }                                                                                                           
                                                                                                                             
                 ] 

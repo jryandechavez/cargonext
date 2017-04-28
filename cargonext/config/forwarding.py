@@ -12,7 +12,7 @@ def get_data():
                                 },
                                 {
                                         "type": "doctype",
-                                        "name": "Consolidated Shipment"
+                                        "name": "Groupage"
                                 },
 								{
 								        "type": "doctype",
@@ -20,7 +20,28 @@ def get_data():
 								}
                         ]
                 },
-		{
+				{
+                        "label": _("Schedules"),
+                        "items": [
+                                {
+                                        "type": "doctype",
+                                        "name": "Sailing Schedule"
+                                },
+                                {
+                                        "type": "doctype",
+                                        "name": "Flight Schedule"
+                                },
+                                {
+                                        "type": "doctype",
+                                        "name": "Rail Schedule"
+                                },
+                                {
+                                        "type": "doctype",
+                                        "name": "Road Schedule",
+                                },
+                        ]
+                },
+				{
                         "label": _("Forwarding Setup"),
                         "items": [
                                 {

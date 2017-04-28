@@ -722,10 +722,10 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-04-21 15:00:12.552980", 
+ "modified": "2017-04-21 15:00:13.539145", 
  "modified_by": "Administrator", 
  "module": "Forwarding", 
- "name": "Consolidated Shipment", 
+ "name": "Groupage", 
  "name_case": "", 
  "owner": "Administrator", 
  "permissions": [

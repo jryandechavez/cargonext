@@ -40,11 +40,11 @@ def get_data():
                         "label": _("Warehousing")
                 },
                 {
-                        "module_name": "General Setup",
-                        "color": "brown",
-                        "icon": "fa fa-wrench",
+                        "module_name": "Organizations",
+                        "color": "orange",
+                        "icon": "fa fa-address-card-o",
                         "type": "module",
-                        "label": _("General Setup")
+                        "label": _("Organizations")
                 }                                                                                                           
                                                                                                                             
                 ] 

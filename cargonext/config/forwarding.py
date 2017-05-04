@@ -12,7 +12,8 @@ def get_data():
                                 },
                                 {
                                         "type": "doctype",
-                                        "name": "Groupage"
+                                        "name": "Consol",
+										"label": "Consolidation"
                                 },
 								{
 								        "type": "doctype",
